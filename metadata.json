@@ -1,0 +1,6 @@
+{
+  "name": "Forever & Always - Proposal For My Love",
+  "description": "A romantic and playful proposal experience with running 'No' button, floating hearts, sweet music chime, and a cute love meter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
